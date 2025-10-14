@@ -20,6 +20,8 @@ Both analyses are built on **U.S. Census Bureau Current Population Survey (1994�
 ├── deliverable-2-segmentation-model.pdf
 ├── census-bureau.data
 ├── census-bureau.columns
+├── ML-TakehomeProject.pdf
+├── Report
 └── README.md
 ```
 
