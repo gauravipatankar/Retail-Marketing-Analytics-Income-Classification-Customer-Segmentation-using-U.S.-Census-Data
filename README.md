@@ -21,7 +21,7 @@ Both analyses are built on **U.S. Census Bureau Current Population Survey (1994�
 ├── census-bureau.data
 ├── census-bureau.columns
 ├── ML-TakehomeProject.pdf
-├── Report
+├── Report.pdf
 └── README.md
 ```
 
